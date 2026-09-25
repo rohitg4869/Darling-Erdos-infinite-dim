@@ -1,3 +1,9 @@
+## This file implements simulations to find the distribution of the (scaled) Maximally selected CUSUM for data X_i, which are L^2[0,1] valued random functions. 
+
+## This code was written by me, and subsequently optimized by Claude to significantly improve run-time. 
+
+
+
 ## =====================================================================
 
 ##  Functional CUSUM  ->  Gumbel limit:  Monte-Carlo study  (fast version)
